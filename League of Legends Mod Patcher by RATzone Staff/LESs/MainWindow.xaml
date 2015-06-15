@@ -1,0 +1,46 @@
+﻿<Controls:MetroWindow  
+    x:Class="LESs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+    GlowBrush="{DynamicResource AccentColorBrush}"
+        Title="League of Legends Mod Patcher" Width="625" Height="350" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="favicon(4).ico">
+
+    <Grid x:Name="MainGrid" VerticalAlignment="Stretch" Background="WhiteSmoke" Loaded="MainGrid_Loaded">
+        <Label Content="Select your League of Legends folder:" HorizontalAlignment="Left" Margin="6,2,0,0" VerticalAlignment="Top" FontWeight="Light" FontStyle="Italic" FontSize="14" Foreground="#FF595959"/>
+        <Label Content="Created by RATzone Staff &amp; Snowl" HorizontalAlignment="Right" Margin="0,292,0,0" VerticalAlignment="Top" FontWeight="Light" FontStyle="Italic" FontSize="14" Foreground="#FF595959"/>
+
+        <TextBox x:Name="LocationTextbox" Padding="3,0,0,0" VerticalContentAlignment="Center" HorizontalAlignment="Stretch" Height="30" Margin="10,30,120,0" TextWrapping="NoWrap" VerticalAlignment="Top" FontSize="14" IsReadOnly="True"/>
+        <Button x:Name="FindButton" Content="Locate" HorizontalAlignment="Right" Margin="0,30,10,0" VerticalAlignment="Top" Width="100" Height="30" FontSize="14" Click="FindButton_Click"/>
+
+        <ListBox x:Name="ModsListBox" HorizontalAlignment="Left" Margin="10,75,0,30" VerticalAlignment="Stretch" Width="230" SelectionChanged="ModsListBox_SelectionChanged">
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem" BasedOn="{StaticResource {x:Type ListBoxItem}}">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="IsSelected" Value="True"/>
+                        </Trigger>
+                        <DataTrigger Binding="{Binding CanClickItems}" Value="False">
+                            <Setter Property="IsEnabled" Value="False"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </ListBox.ItemContainerStyle>
+        </ListBox>
+
+        <Label x:Name="ModNameLabel" Content="" HorizontalAlignment="Left" Margin="250,75,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="ModDescriptionBox" HorizontalAlignment="Left" Height="143" Margin="250,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" IsReadOnly="True" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto" Width="220"/>
+
+        <StackPanel Margin="0,0,3,16" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+            <Label x:Name="LeagueVersionLabel" Margin="0,0,0,5" FontSize="14" HorizontalAlignment="Right" FontStyle="Italic"/>
+        </StackPanel>
+
+        <Label x:Name="StatusLabel" Content="Waiting..." HorizontalAlignment="Left" Margin="48,0,0,0" VerticalAlignment="Bottom" FontWeight="Light" FontStyle="Italic" FontSize="14" Foreground="#FF595959"/>
+        <Label x:Name="ModAuthorLabel" Content="" HorizontalAlignment="Left" Margin="250,257,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Button x:Name="RemoveButton" Content="REMOVE" Margin="484,188,15,103" Background="#FF0000" FontSize="16" FontWeight="Bold" IsEnabled="False" Click="RemoveButton_Click" RenderTransformOrigin="0.492,-2.867"/>
+        <Button x:Name="PatchButton" Content="PATCH" Margin="495,153,24,138" Background="#FF98CB89" FontSize="16" FontWeight="Bold" IsEnabled="False" Click="PatchButton_Click"/>
+        <Label x:Name="ModVersionLabel" Content="" HorizontalAlignment="Left" Margin="250,283,0,0" VerticalAlignment="Top" RenderTransformOrigin="-5.868,3.154"/>
+        <Label x:Name="StatusLabel_Copy" Content="Status:" HorizontalAlignment="Left" Margin="3,0,0,0" VerticalAlignment="Bottom" FontWeight="Light" FontStyle="Italic" FontSize="14" Foreground="#FF595959"/>
+    </Grid>
+</Controls:MetroWindow>

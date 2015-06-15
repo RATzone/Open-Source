@@ -1,0 +1,92 @@
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\Interop.Scripting.dll
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csproj.ResolveComReference.cache
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\AbcSharp.dll
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\MahApps.Metro.dll
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\MahApps.Metro.xml
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csprojResolveAssemblyReference.cache
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\MainWindow.baml
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\RemovePopup.baml
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\MainWindow.g.cs
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\RemovePopup.g.cs
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\App.g.cs
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csproj.GenerateResource.Cache
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\App.baml
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by szczurekPROS.exe.config
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by szczurekPROS.exe
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by szczurekPROS.pdb
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS_Content.g.cs
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS_MarkupCompile.cache
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS.g.resources
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\LoL_Mod_Patcher_by_szczurekPROS.Properties.Resources.resources
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS.exe
+C:\Users\assa\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS.pdb
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\Interop.Scripting.dll
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csproj.ResolveComReference.cache
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\AbcSharp.dll
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\MahApps.Metro.dll
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\MahApps.Metro.xml
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\RemovePopup.baml
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\App.baml
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\RemovePopup.g.cs
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\App.g.cs
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\LoL_Mod_Patcher_by_szczurekPROS.Properties.Resources.resources
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by szczurekPROS.exe.config
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by szczurekPROS.exe
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by szczurekPROS.pdb
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS_Content.g.cs
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS_MarkupCompile.cache
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS.g.resources
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS.exe
+C:\Users\Patryk\Desktop\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by szczurekPROS.pdb
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\Interop.Scripting.dll
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csproj.ResolveComReference.cache
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\bin\Debug\AbcSharp.dll
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\bin\Debug\MahApps.Metro.dll
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\bin\Debug\System.Windows.Interactivity.dll
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\bin\Debug\MahApps.Metro.xml
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csprojResolveAssemblyReference.cache
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\MainWindow.baml
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\RemovePopup.baml
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\App.baml
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\MainWindow.g.cs
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\RemovePopup.g.cs
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\App.g.cs
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\LESs.csproj.GenerateResource.Cache
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by RATzone Staff.exe.config
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by RATzone Staff.exe
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\bin\Debug\League of Legends Mod Patcher by RATzone Staff.pdb
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff_Content.g.cs
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff_MarkupCompile.cache
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff.g.resources
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\LoL_Mod_Patcher_by_RATzone_Staff.Properties.Resources.resources
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff.exe
+D:\cały pulpit\LoLEnhancementSuite-master\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff.pdb
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\bin\Debug\League of Legends Mod Patcher by RATzone Staff.exe.config
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\Interop.Scripting.dll
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\LESs.csproj.ResolveComReference.cache
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff.exe
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff.pdb
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\bin\Debug\AbcSharp.dll
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\bin\Debug\League of Legends Mod Patcher by RATzone Staff.exe
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\bin\Debug\League of Legends Mod Patcher by RATzone Staff.pdb
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\bin\Debug\MahApps.Metro.dll
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\bin\Debug\MahApps.Metro.xml
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\LESs.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\MainWindow.baml
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\RemovePopup.baml
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\App.baml
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\MainWindow.g.cs
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\RemovePopup.g.cs
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\App.g.cs
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff_Content.g.cs
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff_MarkupCompile.cache
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\League of Legends Mod Patcher by RATzone Staff.g.resources
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\LoL_Mod_Patcher_by_RATzone_Staff.Properties.Resources.resources
+C:\Users\Patryk\Documents\GitHub\Open-Source\League of Legends Mod Patcher by RATzone Staff\LESs\obj\Debug\LESs.csproj.GenerateResource.Cache
